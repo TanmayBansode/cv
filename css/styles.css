@@ -1,0 +1,30 @@
+body {
+  background-color: #F5F5F5;
+  font-family: georgia;
+  color: black;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #FA7070;
+  border-width: 4px;
+  width: 5%;
+}
+
+h2, h3 {
+  color: #FC5185;
+  font-family: tahoma;
+}
+
+h1 {
+  color: #364F6B;
+  font-family: verdana;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+a {
+  text-decoration: none;
+  
+}
